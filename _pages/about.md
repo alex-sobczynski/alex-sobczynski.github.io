@@ -11,7 +11,7 @@ I am a social scientist with a methodological focus in remote sensing and the en
 
 Working Papers
 ======
-Harvest and Displacement
+Harvest and Displacement https://alex-sobczynski.github.io/files/Harvest_and_Displacement.pdf
 
 Previous Work
 ======
